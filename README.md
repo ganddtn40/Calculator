@@ -1,2 +1,2 @@
 # Calculator
-Basic HTML and CSS project😁
+Basic HTML, JS and CSS project😁
